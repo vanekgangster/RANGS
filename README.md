@@ -1,19 +1,32 @@
 ДОЛЖНОСТИ:
 
-ESB - Head.Crime - Sky Osheat
+ESB
+Head.Crime - Sky Osheat
 
-ESB - Head.Rec - Sky Osheat
+Head.Rec - Sky Osheat
 
-LSSD - Head.ICD - Sky Bipolared
+Head.Dis - Sky Osheat
 
-LSV - Head.Crime - Sky Marquez
+D.Head.Dis - Sky Osheat
 
-ESB - Head.Dis - Sky Marquez
+D.Head.Rec - Sky Osheat 2x
 
-AM - D.Head.Crime - Sky Bipolaryn
+LSSD
 
-ESB - D.Head.Rec - Sky Osheat 2x
+Head.ICD - Sky Bipolared
 
-ESB - D.Head.Dis - Sky Osheat
+LSV 
 
-FIB - D.Head.ID - Sky Whitez
+Head.Crime - Sky Marquez
+
+AM
+
+D.Head.Crime - Sky Bipolaryn
+
+FIB
+
+D.Head.ID - Sky Whitez
+
+BSG
+
+Head.Crime - Sky Apathyson
